@@ -1,0 +1,16 @@
+* 731dad0 agregando dos parrafo
+*   1e63281 resolviendo conflictos en estaciones de anio y fecha
+|\  
+| * 08ac91e ingresos de las estaciones del a¤o
+* | da1d29a agregando estaciones del anio con fechas
+|/  
+*   773aaef Merge branch 'js'
+|\  
+| * 7a29dab  creando index js
+* | 98bd315 Creano style css
+* | 3ac5979  creacion de documentos de html
+|/  
+* 5cb6431  ignorando archivos .exe
+* 34cb927 creando licencia del repositorio
+* 281b75a agregando contenido al readme
+* 8e3c5b8 Primer mensaje creacion de gitignore y readme

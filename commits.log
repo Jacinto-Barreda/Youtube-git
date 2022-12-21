@@ -1,0 +1,73 @@
+commit 731dad0271c4eba1dc941222838e7242427364cb
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sun Dec 18 15:25:37 2022 -0600
+
+    agregando dos parrafo
+
+commit 1e63281daec9b7a888a8a4cca9fc3002341e6355
+Merge: da1d29a 08ac91e
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sun Dec 18 15:21:30 2022 -0600
+
+    resolviendo conflictos en estaciones de anio y fecha
+
+commit da1d29a05a33d4f03fed5ae2b4cd6341970c43c1
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sun Dec 18 15:06:29 2022 -0600
+
+    agregando estaciones del anio con fechas
+
+commit 08ac91ede2ea75903dc7ca1896c3524d51dfe2fe
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sun Dec 18 15:06:29 2022 -0600
+
+    ingresos de las estaciones del a¤o
+
+commit 773aaefc5ebebc36ccd232103e84e97bc13fa89e
+Merge: 98bd315 7a29dab
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sat Dec 17 20:23:32 2022 -0600
+
+    Merge branch 'js'
+
+commit 7a29daba00e88785ffcdead402784a279ded7dfc
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sat Dec 17 20:18:29 2022 -0600
+
+     creando index js
+
+commit 98bd315fbc96e5dd4fd19e201a139a5160311b16
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sat Dec 17 20:13:48 2022 -0600
+
+    Creano style css
+
+commit 3ac59797a0de1a8e3857adb3dead41f43bad3ba2
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sat Dec 17 19:30:17 2022 -0600
+
+     creacion de documentos de html
+
+commit 5cb6431e0b44c24faf4ce340f200eaaf648c45a4
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sat Dec 17 19:15:15 2022 -0600
+
+     ignorando archivos .exe
+
+commit 34cb927e49a27ea1e851e650928416a9d956a0d8
+Author: Jacinto Barreda <103016799+Jacinto-Barreda@users.noreply.github.com>
+Date:   Sat Dec 17 17:34:00 2022 -0600
+
+    creando licencia del repositorio
+
+commit 281b75aab070d5cd32c4ce4da14fe76ca310cf61
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sat Dec 17 17:27:55 2022 -0600
+
+    agregando contenido al readme
+
+commit 8e3c5b8474a6743ff3c63eba386541a93992c883
+Author: Jacinto Barreda <farlentb@gmail.com>
+Date:   Sat Dec 17 17:10:52 2022 -0600
+
+    Primer mensaje creacion de gitignore y readme
